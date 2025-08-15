@@ -1,4 +1,4 @@
-# terraform-modules-hostted-zone
+# terraform-modules-hosted-zone
 
 This Terraform module creates and manages AWS Route 53 Hosted Zones. It supports both public and private hosted zones.
 
